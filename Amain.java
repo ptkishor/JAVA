@@ -11,6 +11,7 @@ public class Amain{
         System.out.println(30 + 40);
         System.out.println(20 + "10");
         System.out.println(20 + "20" + 40);
-        System.out.println(20 + 20 + "Hello" + 40 +50);       
+        System.out.println(20 + 20 + "Hello" + 40 +50);    
+        System.out.println("Hello" + 20 + 20 + 40 + 50);   
     }
 }
