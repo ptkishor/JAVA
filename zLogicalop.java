@@ -1,4 +1,4 @@
-public class ELogicalop {
+public class zLogicalop {
     public static void main(String[] args) {
         int a = 20;
         System.out.println(a > 10 && a < 15);   //one value is false so output is false

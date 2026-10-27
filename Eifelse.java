@@ -1,4 +1,4 @@
-public class Gifelse {
+public class Eifelse {
     public static void main(String[] args) {
 
         int marks = 90;

@@ -1,4 +1,4 @@
-public class  FRelationalop {
+public class  ZRelationalop {
     public static void main(String[] args) {
         int age = 20;
         System.out.println(age > 18);

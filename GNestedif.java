@@ -1,4 +1,4 @@
-public class HNestedif {
+public class GNestedif {
     public static void main(String[] args) {
         int age = 18;
         boolean hasLicense = true;
@@ -43,8 +43,33 @@ public class HNestedif {
                     } else {
                         System.out.println("Not Eligible");
                 }
-            
 
+
+            int age3 = 40;
+            boolean hasIDE = true;
+
+            if (age3 >= 38){
+            if(hasIDE) {
+                System.out.println("Entry Allowed");
+            } else {
+                System.out.println("Entry Denied");
+            }
+        }
+
+
+        int age4 = 20;
+        boolean hasID = false;
+        
+        if (age4 >= 18) {
+            if (hasID) {
+                System.out.println("Entry Allowed");
+            } else {
+                System.out.println("ID Missing");
+            } 
+        }else {
+                System.out.println("Too Young");
+            
+        }
 
         }
     }
