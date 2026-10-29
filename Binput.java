@@ -71,6 +71,8 @@ public class Binput {
 
         String name = sc.nextLine();
 
-        System.out.println(name);
+        System.out.println(name + " ji apki umr " + age + "hai");
+        sc.close();
+
   }
 }

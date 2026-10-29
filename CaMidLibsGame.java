@@ -14,6 +14,7 @@ public class CaMidLibsGame {
         String noun = sc.nextLine();
 
         System.out.print(name + " saw a " + adjective + " " + noun + "!");
+        sc.close();
     }
 }
 

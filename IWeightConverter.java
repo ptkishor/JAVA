@@ -44,5 +44,6 @@ public class IWeightConverter{
         double KiloGram = pound/2.20462;
 
         System.out.printf("%.2f pounds = %.2f kilogram",pound, KiloGram);
+        sc.close();
     }
 }
