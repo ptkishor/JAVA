@@ -19,10 +19,10 @@ public class ekMathClass {
 // }
 
 
-public class ekMathClass {
-    public static void main(String[] args) {
-        System.out.println(Math.min(18, 9));
-        System.out.println(Math.abs(-35));
-        System.out.println(Math.round(7.6));
-    }
-}
+// public class ekMathClass {
+//     public static void main(String[] args) {
+//         System.out.println(Math.min(18, 9));
+//         System.out.println(Math.abs(-35));
+//         System.out.println(Math.round(7.6));
+//     }
+// }
