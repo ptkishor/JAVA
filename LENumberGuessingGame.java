@@ -26,6 +26,7 @@ public class LENumberGuessingGame {
         }
 
         System.out.println("Correct Number!");
+        scan.close();
 
     }   
 }

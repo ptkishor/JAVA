@@ -13,5 +13,29 @@ public class Amain{
         System.out.println(20 + "20" + 40);
         System.out.println(20 + 20 + "Hello" + 40 +50);    
         System.out.println("Hello" + 20 + 20 + 40 + 50);   
+
+
+        
+        int age = 20;
+        System.out.println(age > 18);
+        System.out.println(age < 22);
+        System.out.println(age != 21);
+        System.out.println(age == 6);
+        System.out.println(age >= 22);
+        System.out.println(age <= 22);
+        System.out.println(age == 13);
+
+        int x = 15;
+        int y = 10;
+
+        System.out.println(x > y);
+        System.out.println(x < y);
+        System.out.println(x == y);
+        System.out.println(x != y);
+        System.out.println(x >= 15);
+        System.out.println(y <= 10);
+
+
     }
 }
+   

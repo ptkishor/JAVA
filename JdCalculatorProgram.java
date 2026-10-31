@@ -50,6 +50,6 @@ public class JdCalculatorProgram {
         default -> System.out.print("Invalid Operator");
         }
 
-
+        scan.close();
     }
 }
